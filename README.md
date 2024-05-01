@@ -1,4 +1,4 @@
-Domain and Range in C++
+#Domain and Range in C++
 Project Overview
 The "Domain and Range in C++" project implements a simple hash table for efficient data management and retrieval of domain names stored in a text file. This project utilizes a custom hash table structure to store strings and handle collisions using chaining (linked lists). It is designed to demonstrate hash table operations including insertion, searching, and collision resolution in C++.
 
