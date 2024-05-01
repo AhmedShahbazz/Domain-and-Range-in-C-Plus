@@ -1,9 +1,11 @@
 # Domain and Range in C++
 
-Project Overview
+## Project Overview
+
 The "Domain and Range in C++" project implements a simple hash table for efficient data management and retrieval of domain names stored in a text file. This project utilizes a custom hash table structure to store strings and handle collisions using chaining (linked lists). It is designed to demonstrate hash table operations including insertion, searching, and collision resolution in C++.
 
-Features
+## Features
+
 Custom Hash Table: Implementation of a hash table using arrays and linked lists.
 Collision Handling: Handles hash collisions using chaining (linked lists) with nodes storing strings and their occurrence counts.
 Data Insertion: Ability to read domain names from a text file and insert them into the hash table.
