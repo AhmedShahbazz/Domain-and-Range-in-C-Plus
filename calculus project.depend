@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1626197044 source:e:\new folder\calculus project\main.cpp
+	<iostream>
+	<math.h>
+
