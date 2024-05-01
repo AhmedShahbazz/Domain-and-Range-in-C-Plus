@@ -48,5 +48,5 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-Your Name - aahmedch420567@gmail.com
+Ahmed Shahbaz - aahmedch420567@gmail.com
 
