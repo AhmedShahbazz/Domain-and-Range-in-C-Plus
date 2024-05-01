@@ -124,6 +124,6 @@ public:
             cout<<" => "<<temp->data;
             temp=temp->next;
         }
-         cout<<"\nTotal Nodes are: "<<y<<endl;
+         cout<<"\nTotal Nodes: "<<y<<endl;
     }
 };
